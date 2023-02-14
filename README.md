@@ -1,3 +1,3 @@
 # INF265 - Project 1
 
-yugyuil
+Henrik og Kristian
