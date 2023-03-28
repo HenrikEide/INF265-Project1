@@ -1,5 +1,5 @@
-# INF265 - Project 1
+# INF265 - Projects
 
 Henrik og Kristian
 
-Hello we fix
+Hello, if you are reading this I have forgotten to make this repo private
